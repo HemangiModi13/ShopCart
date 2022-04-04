@@ -1,0 +1,68 @@
+﻿html, body {
+    height: 100%;
+    width: 100%
+}
+
+body {
+    background: url('insp img/5-things-to-consider-when-selecting-a-web-design-agency-1.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    height: 100%
+}
+
+.login-form {
+    margin-top: 180px;
+    background: rgba(255,255,255,.3);
+    padding-bottom: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+    border-radius: 4px
+}
+
+.input-group-addon {
+    border-radius: 3px 0 0 3px;
+    background: #4e4a59;
+    border: none;
+    color: #fff
+}
+
+.form-control {
+    border-radius: 0 3px 3px 0;
+    border: none;
+    color: #fff;
+    outline: none !important;
+    box-shadow: none !important;
+    background: #4e4a59
+}
+
+.input-group {
+    margin-bottom: 15px
+}
+
+.btn {
+    border-radius: 3px;
+    border: none;
+    padding: 8px;
+    outline: none !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+}
+
+.logo-g {
+    height: 80px;
+    width: 80px;
+    border: solid 5px #d9534f;
+    margin: 15px 0;
+    padding: 0;
+    display: inline-block;
+    color: #d9534f;
+    font-size: 60px;
+    line-height: 70px;
+    border-radius: 50%
+}
+
+@media(max-width:728px) {
+
+    .login-form {
+        margin-top: 100px
+    }
+}

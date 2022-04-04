@@ -1,0 +1,15 @@
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\ShopCart.dll.config
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\ShopCart.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\ShopCart.pdb
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\EntityFramework.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\EntityFramework.SqlServer.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\EntityFramework.xml
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\EntityFramework.SqlServer.xml
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Hemangi\ASP\ShopCart\ShopCart\obj\Debug\ShopCart.csproj.CoreCompileInputs.cache
+E:\Hemangi\ASP\ShopCart\ShopCart\obj\Debug\ShopCart.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\obj\Debug\ShopCart.pdb
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\Newtonsoft.Json.dll
+E:\Hemangi\ASP\ShopCart\ShopCart\bin\Newtonsoft.Json.xml
+E:\Hemangi\ASP\ShopCart\ShopCart\obj\Debug\ShopCart.csprojResolveAssemblyReference.cache
